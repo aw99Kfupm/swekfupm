@@ -10,7 +10,9 @@ public class Sorter {
 
         ArrayList<String> studentList = readStudentList("Student List.txt");// alhumdellah we have done this in day1
 
+
     }
+
     public static ArrayList<String> readStudentList(String filePath) {
         ArrayList<String> studentList = new ArrayList<>();
 
